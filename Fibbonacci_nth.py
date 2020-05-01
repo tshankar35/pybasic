@@ -4,7 +4,7 @@
 # In[4]:
 
 
-#Fibbonacci Series upto nth Term
+#Fibbonacci Series upto nth Terms
 #Program Overview:
 #1. Series 0, 1, 1, 2, 3, 5, 8, 13, 21, 34 .......
 #2 Previous two terms are added and hence the first 2 numbers are fixed and printed at first
