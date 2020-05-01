@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-
+#Basic Curve of cases due to Covid-19, made during learning about pandas and plotly
 
 import pandas as pd
 import plotly.graph_objects as px
